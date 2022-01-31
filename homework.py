@@ -9,3 +9,11 @@
 
 def easy_function(a,b):
     pass
+
+#№2
+def soso_function():
+    n = int(input('Введите число: '))
+    result = n * 2
+    return result
+
+print(soso_function())
