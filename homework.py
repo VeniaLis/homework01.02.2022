@@ -14,9 +14,9 @@
 '''def soso_function():
     n = int(input('Введите число: '))
     result = n * 2
-    return result'''
+    return result
 
-print(soso_function())
+print(soso_function())'''
 
 #№3
 '''def midlle_function():
@@ -26,3 +26,4 @@ print(soso_function())
     else:
         return 'No'
 print(midlle_function())'''
+
