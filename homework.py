@@ -7,5 +7,23 @@
 #• Пишем функцию, принимающую два аргумента. После чего проверим, если первое число больше 10, принтим ('да').
 #Если меньше('нет').
 
-def easy_function(a,b):
-    pass
+'''def easy_function(a,b):
+    pass'''
+
+#№2
+'''def soso_function():
+    n = int(input('Введите число: '))
+    result = n * 2
+    return result
+
+print(soso_function())'''
+
+#№3
+'''def midlle_function():
+    x = int(input('Введите число: '))
+    if x % 2 == 0:
+        return 'YES'
+    else:
+        return 'No'
+print(midlle_function())'''
+
